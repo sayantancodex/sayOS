@@ -21,3 +21,10 @@ The journey of creating sayOS was filled with numerous challenges and invaluable
 2. GUI Development: Crafting a basic GUI using open-source plugins like Openbox and Ly was both a challenging and rewarding experience. Balancing functionality with a lightweight design required careful consideration and a lot of tweaking.
 3. Browser Integration: Integrating Firefox into sayOS was essential to provide basic web browsing capabilities. Ensuring it functioned smoothly with limited graphics support was a notable challenge, but it enhanced my understanding of browser optimization and system resource management.
 4. Persistence and Problem-Solving: Developing sayOS demanded a high level of persistence and problem-solving skills. Each obstacle, from kernel bugs to GUI limitations, provided a learning opportunity that enriched my knowledge of Linux systems and open-source software.
+
+![ss](https://github.com/user-attachments/assets/cf90d635-093a-413e-aa96-8a4b8189ad86)
+
+
+https://github.com/user-attachments/assets/9fcdb24c-fd2d-47eb-a59a-7b932f037748
+
+
