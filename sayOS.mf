@@ -1,0 +1,2 @@
+SHA1 (sayOS.ovf) = 18323ffcdae04a25d630f8f18c50a665b092c363
+SHA1 (sayOS-disk001.vmdk) = 3da3664708c37c21e082be23b896ce3f369accdd
